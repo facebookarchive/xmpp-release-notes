@@ -49,6 +49,13 @@ In either case, clients should attempt to reconnect.
 Update Details
 ==============
 
+(beta) September 29, 2009
+--------------------
+
+  - Miscellaneous stability improvements.
+  - Add support for some upcoming features that will be enabled after
+    corresponding changes are pushed to other Facebook systems.
+
 (meta) September 18, 2010
 -------------------------
 
