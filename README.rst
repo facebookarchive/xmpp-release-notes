@@ -49,6 +49,12 @@ In either case, clients should attempt to reconnect.
 Update Details
 ==============
 
+(prod) October 11, 2010
+--------------------
+
+  - The latest build is now serving all new connections. Existing
+    connections to the previous build will be severed in a few days. 
+
 (beta) September 29, 2009
 --------------------
 
