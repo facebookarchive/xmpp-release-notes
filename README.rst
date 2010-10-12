@@ -5,7 +5,7 @@ XMPP Release Notes
 These release notes document
 the latest updates to and the newest features
 of the XMPP Service.
-All updates to the beta tier and production tier will be listed here. 
+All updates to the beta tier and production tier will be listed here.
 
 
 .. contents::
@@ -53,7 +53,7 @@ Update Details
 --------------------
 
   - The latest build is now serving all new connections. Existing
-    connections to the previous build will be severed in a few days. 
+    connections to the previous build will be severed in a few days.
 
 (beta) September 29, 2009
 --------------------
@@ -71,24 +71,24 @@ Update Details
 --------------------
 
   - We're pushing the latest build once again after resolving some system
-    issues. 
+    issues.
 
 (prod) July 16, 2010
 --------------------
 
   - We've reverted back to the previous build due to some stability
-    issues. 
+    issues.
 
 (prod) July 14, 2010
 --------------------
 
   - The build from the latest beta is gradually being pushed to the
-    production tier. 
+    production tier.
 
 (beta) June 30, 2010
 --------------------
 
-  - More miscellaneous stability improvements. 
+  - More miscellaneous stability improvements.
 
 (beta) June 24, 2010
 --------------------
@@ -104,19 +104,19 @@ Update Details
     production. When interface is finalized, a full description will be
     posted. The purpose of this extension is to allow clients to display
     both sides of a conversation that happens through web chat or another
-    client. 
+    client.
 
 (prod) June 16, 2010
 --------------------
 
   - The latest build is now serving all new connections. Existing
-    connections to the previous build will be severed in a few days. 
+    connections to the previous build will be severed in a few days.
 
 (prod) June 15, 2010
 --------------------
 
   - The build from the latest beta is gradually being pushed to the
-    production tier. 
+    production tier.
 
 (beta) June 9, 2010
 -------------------
@@ -133,14 +133,14 @@ Update Details
     direct child of the "<vCard xmlns='vcard-temp'/>" element.
   - An Adobe cross-domain policy will be served on the service ports to
     allow Flash clients to connect to the server.
-  - Miscellaneous improvements to stability and error handling. 
+  - Miscellaneous improvements to stability and error handling.
 
 (prod) May 12, 2010
 -------------------
 
   - The update is complete. All new sessions should be using the new IP
     address with the new software. The old IP will be taken down in a few
-    days, and all remaining sessions on it will be closed. 
+    days, and all remaining sessions on it will be closed.
 
 (prod) April 22, 2010
 ---------------------
@@ -150,7 +150,7 @@ Update Details
   - This will be a DNS-based change because we are changing our load
     balancer simultaneously.
   - The old version of the service will remain available at the current IP
-    address (69.63.181.104) for a few days. 
+    address (69.63.181.104) for a few days.
 
 (beta) April 5, 2010
 --------------------
@@ -164,7 +164,7 @@ Update Details
     a number of "roster subscription remove" pushes to remove the
     "u12345"-style JIDs. This is to work around a Pidgin behavior: leaving
     old contacts in the buddy list even though they no longer appear in
-    the roster. This will be removed in the next release. 
+    the roster. This will be removed in the next release.
 
 (beta) March 23, 2010
 ---------------------
@@ -176,9 +176,9 @@ Update Details
   - Connections will be accepted on port 443 in addition to port 5222.
     5222 is still the preferred port. This feature will not be visible
     until the production push.
-  - Various minor stability improvements. 
+  - Various minor stability improvements.
 
 (meta) March 15, 2010
 ---------------------
 
-  - Stub entry. Preparing release notes page. 
+  - Stub entry. Preparing release notes page.
