@@ -1,3 +1,8 @@
+=============
+Archived Repo
+=============
+This is an archived project and is saved here for posterity only.
+
 ==================
 XMPP Release Notes
 ==================
